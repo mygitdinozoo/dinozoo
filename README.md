@@ -1,0 +1,2 @@
+# dinozoo
+hexo blog
